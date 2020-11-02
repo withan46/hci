@@ -63,4 +63,26 @@ https://askubuntu.com/questions/21556/how-to-create-an-empty-file-from-command-l
 
 https://vitux.com/how-to-edit-config-files-in-ubuntu/(command sudo vi and ways to use vim ) 
 
+# Παραδοτέο 4
+
+## Άσκηση προγραμματισμού + αίτημα ενσωμάτωσης
+
+https://codepen.io/withan46/pen/zYBRQmG?editors=1111
+
+
+Βιβλιογραφία/Πηγές : 
+
+https://codepen.io/willpaige/pen/nFctv?editors=1100( make a 3d effect) 
+
+
+https://codepen.io/romkaa/pen/JKqgmN/(make play and pause button ) 
+
+https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77701297100.jpg(bakcground image)
+
+https://www.computerhope.com/issues/ch000055.htm(resize) 
+
+
+https://codepen.io/AmrSubZero/pen/oLOYrA(pause button)
+
+
 
