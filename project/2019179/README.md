@@ -67,8 +67,7 @@ https://vitux.com/how-to-edit-config-files-in-ubuntu/(command sudo vi and ways t
 
 ## Άσκηση προγραμματισμού + αίτημα ενσωμάτωσης
 
-https://codepen.io/withan46/pen/zYBRQmG?editors=1111
-
+https://unruffled-fermi-c9806a.netlify.app/remix/youtube-video-player/
 
 Βιβλιογραφία/Πηγές : 
 
