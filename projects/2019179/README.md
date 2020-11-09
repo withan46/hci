@@ -83,5 +83,19 @@ https://www.computerhope.com/issues/ch000055.htm(resize)
 
 https://codepen.io/AmrSubZero/pen/oLOYrA(pause button)
 
+# Παραδοτέο 4
+
+## Άσκηση γραμμής εντολών
+
+https://asciinema.org/a/msonMbU30pjPLDwJFKbi4j9a5
+
+Βιβλιογραφία/Πηγές : 
+
+https://superuser.com/questions/203298/ubuntu-keep-emacs-in-the-terminal(emacs -nw)
+
+https://orgmode.org/worg/org-tutorials/org4beginners.html(documentation) 
+
+https://www.gnu.org/software/emacs/manual/html_node/emacs/Exiting.html(Kill Emacs (save-buffers-kill-terminal))
+
 
 
