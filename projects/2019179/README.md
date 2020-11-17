@@ -97,5 +97,21 @@ https://orgmode.org/worg/org-tutorials/org4beginners.html(documentation)
 
 https://www.gnu.org/software/emacs/manual/html_node/emacs/Exiting.html(Kill Emacs (save-buffers-kill-terminal))
 
+# Παραδοτέο 6
 
+## Άσκηση προγραμματισμού 
+
+https://unruffled-fermi-c9806a.netlify.app/remix/image-3d/
+
+Βιβλιογραφία/Πηγές : 
+
+https://www.wallpapers4u.org/wp-content/uploads/glass_pattern_frost_snow_winter_18533_1920x1080.jpg(snow glass image)
+
+https://codepen.io/manabox/pen/aOZKWG(soft light)
+
+https://images.unsplash.com/photo-1457269449834-928af64c684d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max(image background)
+
+https://codepen.io/team/sparkbox/full/OMdwoJ/(letter style) 
+
+https://www.interflora.co.uk/content/christmas-wishes/(Christmas wishes ) 
 
