@@ -147,7 +147,8 @@ ONOMA: ΑΘΑΝΑΣΙΟΣ
 # Παραδοτέο 7
 ## Άσκηση γραμμής εντολών (install and configure in a user folder a python project that is not available through the package manager)
 
-https://asciinema.org/a/nBQLpDj1y9Qs8R65diRUC9TCZ
+ •Link άσκησης: 
+     https://asciinema.org/a/nBQLpDj1y9Qs8R65diRUC9TCZ
 
 •	Δυσκολίες και διαδικασία :
 
