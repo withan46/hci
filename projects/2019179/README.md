@@ -35,109 +35,133 @@ ONOMA: ΑΘΑΝΑΣΙΟΣ
 
 ## Άσκηση προγραμματισμού 
 
-https://unruffled-fermi-c9806a.netlify.app/remix/button/
+•	Link άσκησης: 
+   https://unruffled-fermi-c9806a.netlify.app/remix/button/
 
-Βιβλιογραφία/Πηγές : 
+•	Βιβλιογραφία/Πηγές : 
 
-https://stackoverflow.com/questions/4907843/open-a-url-in-a-new-tab-and-not-a-new-window (εντολή "window.open()")
+   https://stackoverflow.com/questions/4907843/open-a-url-in-a-new-tab-and-not-a-new-window (εντολή "window.open()")
 
 
-https://i.pinimg.com/originals/56/c1/cc/56c1ccb9c25d3494c5b0c582a7f2a301.gif ( εικόνα gif ) 
+   https://i.pinimg.com/originals/56/c1/cc/56c1ccb9c25d3494c5b0c582a7f2a301.gif ( εικόνα gif ) 
 
 # Παραδοτέο 3
 
 ## Εργασίες γραμμής εντολών  (edit the shell configuration file)
 
-https://asciinema.org/a/XIU5oSVAlxz1HYyUmpqwwehOn
+•	Link άσκησησς:
+   https://asciinema.org/a/XIU5oSVAlxz1HYyUmpqwwehOn
 
-Περίληψη/Δυσκολείες :
+•	Περίληψη/Δυσκολείες :
 
-Αρχικά βήματα : Το Nano είναι ο πιο απλός και ισχυρός ενσωματωμένος επεξεργαστής στις πολλές διανομές Linux. Για την παρούσα άσκηση έπρεπε να δημιουργηθεί ένας φάκελος στον οποίο θα γινόταν και η τροποποίηση των δεδομένων της εντολή touch. Μετά για να γίνει η χρήση του editor. Μετά έπρεπε να μεταβώ στον κατάλογο που τοποθετείται το αρχείο. Στη συνέχεια, πληκτρολόγησα nano ακολουθούμενο από το όνομα αρχείου που δημιούργησα και θέλω να επεξεργαστώ. $ sudo nano / path / to / όνομα αρχείου
+   Αρχικά βήματα : Το Nano είναι ο πιο απλός και ισχυρός ενσωματωμένος επεξεργαστής στις πολλές διανομές Linux. Για την παρούσα άσκηση έπρεπε να δημιουργηθεί ένας φάκελος στον οποίο θα γινόταν και η τροποποίηση των δεδομένων της εντολή touch. Μετά για να γίνει η χρήση του editor. Μετά έπρεπε να μεταβώ στον κατάλογο που τοποθετείται το αρχείο. Στη συνέχεια, πληκτρολόγησα nano ακολουθούμενο από το όνομα αρχείου που δημιούργησα και θέλω να επεξεργαστώ. $ sudo nano / path / to / όνομα αρχείου
 
-Με την χρήση Ctrl+O(save) και Ctrl+x(edit file)
+   Με την χρήση Ctrl+O(save) και Ctrl+x(edit file)
 
 
 
-Βιβλιογραφία/Πηγές : 
+•	Βιβλιογραφία/Πηγές : 
 
-https://askubuntu.com/questions/21556/how-to-create-an-empty-file-from-command-line( command touch to make file ) 
+   https://askubuntu.com/questions/21556/how-to-create-an-empty-file-from-command-line( command touch to make file ) 
 
-https://vitux.com/how-to-edit-config-files-in-ubuntu/(command sudo vi and ways to use vim ) 
+   https://vitux.com/how-to-edit-config-files-in-ubuntu/(command sudo vi and ways to use vim ) 
 
 # Παραδοτέο 4
 
 ## Άσκηση προγραμματισμού + αίτημα ενσωμάτωσης(video player)
 
-https://unruffled-fermi-c9806a.netlify.app/remix/youtube-video-player/
+•	Link άσκησης:
+   https://unruffled-fermi-c9806a.netlify.app/remix/youtube-video-player/
 
-Βιβλιογραφία/Πηγές : 
+•	Βιβλιογραφία/Πηγές : 
 
-https://codepen.io/willpaige/pen/nFctv?editors=1100( make a 3d effect) 
+   https://codepen.io/willpaige/pen/nFctv?editors=1100( make a 3d effect) 
 
+   https://codepen.io/romkaa/pen/JKqgmN/(make play and pause button ) 
 
-https://codepen.io/romkaa/pen/JKqgmN/(make play and pause button ) 
+   https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77701297100.jpg(bakcground image)
 
-https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77701297100.jpg(bakcground image)
+   https://www.computerhope.com/issues/ch000055.htm(resize) 
 
-https://www.computerhope.com/issues/ch000055.htm(resize) 
-
-
-https://codepen.io/AmrSubZero/pen/oLOYrA(pause button)
+   https://codepen.io/AmrSubZero/pen/oLOYrA(pause button)
 
 # Παραδοτέο 5
 
 ## Άσκηση γραμμής εντολών(emacs)
 
-https://asciinema.org/a/374555
+•	Link άσκησης:
+   https://asciinema.org/a/374555
 
 
 
-Δυσκολίες και διαδικασία :
+•	Δυσκολίες και διαδικασία :
 
-•	Η παρούσα εργασία είχε ως στόχο την επεξεργασία αρχείων με org mode. Για για να γίνει τέτοιου είδους επεξεργασία χρειάστηκε η χρήση emacs.
+   •	Η παρούσα εργασία είχε ως στόχο την επεξεργασία αρχείων με org mode. Για για να γίνει τέτοιου είδους επεξεργασία χρειάστηκε η χρήση emacs.
 
-•	Αρχικά βήματα : Αρχικά έπρεπε να κατεβάσω τα emacs με την εντολή sudo snap install emacs . Τα emacs χρησιμοποιούνται και εκτός terminal για να είναι ποιο προσιτά στον χρήστη παρ'όλ'αυτά υπάρχει και η χρήση του εντός του terminal. Επειδή το asciinema κάνει record μόνο εντός του terminal έγινε μόνο χρήση του emacs (terminal). Οι εντολές με τις οποίες μπορεί ο χρήστης να επεξεργαστεί ενα κείμενο αρχικά ξεκινάνε με ctrl και συνοδεύονται ανάλογα με την λειτουργία που θέλουμε να κάνουμε με το κατάλληλο γράμμα. Εγώ έκανα μόνο χρήση της εντολής ctrl (+ x-d(δημιουργία org file, + x +s(save) , +x +f(open file) ). Ξεκίνησα ένα νέο έγγραφο (C-x b), δημιουργώντας το emacsProject.org και αντιγράφοντας και με επικόλληση το ακόλουθο κείμενο:
+   •	Αρχικά βήματα : Αρχικά έπρεπε να κατεβάσω τα emacs με την εντολή sudo snap install emacs . Τα emacs χρησιμοποιούνται και εκτός terminal για να είναι ποιο προσιτά στον χρήστη παρ'όλ'αυτά υπάρχει και η χρήση του εντός του terminal. Επειδή το asciinema κάνει record μόνο εντός του terminal έγινε μόνο χρήση του emacs (terminal). Οι εντολές με τις οποίες μπορεί ο χρήστης να επεξεργαστεί ενα κείμενο αρχικά ξεκινάνε με ctrl και συνοδεύονται ανάλογα με την λειτουργία που θέλουμε να κάνουμε με το κατάλληλο γράμμα. Εγώ έκανα μόνο χρήση της εντολής ctrl (+ x-d(δημιουργία org file, + x +s(save) , +x +f(open file) ). Ξεκίνησα ένα νέο έγγραφο (C-x b), δημιουργώντας το emacsProject.org και αντιγράφοντας και με επικόλληση το ακόλουθο κείμενο:
 
 
-#-*- mode: org -*-
-#+STARTUP: showall
+   #-*- mode: org -*-
+   #+STARTUP: showall
 
-* Welcome to Org mode
+   * Welcome to Org mode
 
-  Welcome, and thanks for trying out Org mode. Making outlines in
-  Org is very simple. It is just text! Just start typing.
-* This is a headline, it starts with one or more stars
-  A heading has one star, a sub-heading two, etc.
-* Working with lists
-** Moving around in our outline
-** Moving around headlines
+     Welcome, and thanks for trying out Org mode. Making outlines in
+     Org is very simple. It is just text! Just start typing.
+   * This is a headline, it starts with one or more stars
+     A heading has one star, a sub-heading two, etc.
+   * Working with lists
+   ** Moving around in our outline
+   ** Moving around headlines
 
-Αποθήκευσα το αρχείο (C-x C-s) ως emacsProject.org και δεν παρατηρήσετε ότι τα χρώματα αλλάζουν λόγο κάποιου bug του προγράμματος όμως για να δω εάν δουλεύει ξανά άνοιξα το emacsProject.org με (C-x C-f) και έδειξε ότι δουλεύει. 'Η επισήμανση σύνταξης είναι ενεργοποιημένη και το Emacs κατανοεί ότι εργάζομαι πλέον σε λειτουργία Org.
+   Αποθήκευσα το αρχείο (C-x C-s) ως emacsProject.org και δεν παρατηρήσετε ότι τα χρώματα αλλάζουν λόγο κάποιου bug του προγράμματος όμως για να δω εάν δουλεύει ξανά άνοιξα το emacsProject.org με (C-x C-f) και έδειξε ότι δουλεύει. 'Η επισήμανση σύνταξης είναι ενεργοποιημένη και το Emacs κατανοεί ότι εργάζομαι πλέον σε λειτουργία Org.
 
-Βιβλιογραφία/Πηγές : 
+•	Βιβλιογραφία/Πηγές : 
 
-https://superuser.com/questions/203298/ubuntu-keep-emacs-in-the-terminal (emacs -nw)
+   https://superuser.com/questions/203298/ubuntu-keep-emacs-in-the-terminal (emacs -nw)
 
-https://orgmode.org/worg/org-tutorials/org4beginners.html (documentation) 
+   https://orgmode.org/worg/org-tutorials/org4beginners.html (documentation) 
 
-https://www.gnu.org/software/emacs/manual/html_node/emacs/Exiting.html (Kill Emacs (save-buffers-kill-terminal))
+   https://www.gnu.org/software/emacs/manual/html_node/emacs/Exiting.html (Kill Emacs (save-buffers-kill-terminal))
 
 # Παραδοτέο 6
 
 ## Άσκηση προγραμματισμού (3d image)
 
-https://unruffled-fermi-c9806a.netlify.app/remix/image-3d/
+•	Link άσκησης :
+   https://unruffled-fermi-c9806a.netlify.app/remix/image-3d/
 
 
-Βιβλιογραφία/Πηγές : 
+•	Βιβλιογραφία/Πηγές : 
 
-https://www.wallpapers4u.org/wp-content/uploads/glass_pattern_frost_snow_winter_18533_1920x1080.jpg(snow glass image)
+   https://www.wallpapers4u.org/wp-content/uploads/glass_pattern_frost_snow_winter_18533_1920x1080.jpg(snow glass image)
 
-https://codepen.io/manabox/pen/aOZKWG(soft light)
+   https://codepen.io/manabox/pen/aOZKWG(soft light)
 
-https://images.unsplash.com/photo-1457269449834-928af64c684d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max(image background)
+   https://images.unsplash.com/photo-1457269449834-928af64c684d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max(image background)
 
-https://codepen.io/team/sparkbox/full/OMdwoJ/(letter style) 
+   https://codepen.io/team/sparkbox/full/OMdwoJ/(letter style) 
 
-https://www.interflora.co.uk/content/christmas-wishes/(Christmas wishes ) 
+   https://www.interflora.co.uk/content/christmas-wishes/(Christmas wishes ) 
+
+# Παραδοτέο 7
+## Άσκηση γραμμής εντολών (install and configure in a user folder a python project that is not available through the package manager)
+
+https://asciinema.org/a/nBQLpDj1y9Qs8R65diRUC9TCZ
+
+•	Δυσκολίες και διαδικασία :
+
+   Για να γίνει η παραπάνω διαδικασία αρχικά έπρεπε να γίνει χρήση της εντολής sudo apt install python3-pip. Μετά έφτιαξα έναν φάκελο και με την εντολή find /path/to/file/ -iname filename βρήκα την τοποθεσία του στον υπολογιστή. Έψαξα για ένα πακέτο το οποίο να μην κατεβαίνει με το apt το οποίο είναι το beautifulsoup4 και στην συνέχεια έκανα εγκατάσταση αυτό το πακέτο στον φάκελο με την εντολή pip install --install-option="--prefix=$PREFIX_PATH" package_name με τις κατάλληλες μετατροπές.
+
+•	Βιβλιογραφία/Πηγές : 
+
+   https://stackoverflow.com/questions/2915471/install-a-python-package-into-a-different-directory-using-pip (pip install --install-option="--prefix=$PREFIX_PATH" package_name)
+
+   https://stackoverflow.com/questions/452283/how-can-i-install-the-beautiful-soup-module-on-the-mac (package beautigulsoup4)
+   
+   https://linuxize.com/post/how-to-install-pip-on-ubuntu-18.04/ (sudo apt install python3-pip)
+   
+   https://vitux.com/how-to-find-files-on-the-ubuntu-command-line/ (find /path/to/file/ -iname filename)
+
+
 
