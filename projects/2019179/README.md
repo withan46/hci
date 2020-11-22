@@ -46,16 +46,16 @@ https://i.pinimg.com/originals/56/c1/cc/56c1ccb9c25d3494c5b0c582a7f2a301.gif ( �
 
 # Παραδοτέο 3
 
-## Εργασίες γραμμής εντολών  (edit the vim or the shell configuration file)
+## Εργασίες γραμμής εντολών  (edit the shell configuration file)
 
 https://asciinema.org/a/XIU5oSVAlxz1HYyUmpqwwehOn
 
-Περίληψη και Δυσκολείες :
+Περίληψη/Δυσκολείες :
 
-Για την παρούσα άσκηση έπρεπε να δημιουργηθεί ένας φάκελος στον οποίο θα γινόταν και η τροποποίηση των δεδομένων του. Για την διαδικασία αυτή χρησιμοποιήθηκε  η εντολή touch. Μετά μέσω της εντολής sudo vi _____(όνομα του φακέλου) άνοιξε ο φάκελος και μέσω κάποιον απλών γραμμάτων ( I, q, wq ) είχα την δυνατότητα να αποθηκε΄ύσω τα δεδομένα και να τα τροποποιήσω.   
+Αρχικά βήματα : Το Nano είναι ο πιο απλός και ισχυρός ενσωματωμένος επεξεργαστής στις πολλές διανομές Linux. Για την παρούσα άσκηση έπρεπε να δημιουργηθεί ένας φάκελος στον οποίο θα γινόταν και η τροποποίηση των δεδομένων τουη εντολή touch. Μετά για να γίνει η χρήση του editor. Μετά έπρεπε να μεταβώ στον κατάλογο που τοποθετείται το αρχείο. Στη συνέχεια, πληκτρολογήσα nano ακολουθούμενο από το όνομα αρχείου που δημιούργησα και θέλω να επεξεργαστω.
+$ sudo nano / path / to / όνομα αρχείου
 
-Κατά την διάρκεια της εκτέλεσης της παραπάνω λειτουργίας η μόνη δυσκολία που αντιμετώπισα ήταν κυρίως στον τομέα κατανόησης της άσκησης και της χρήσης του Terminal, καθώς δεν είχα μεγάλη εμπειρία στον τρόπο με  τον οποίο μπορώ να το χρησιμοποιήσω. 
-
+Με την χρήση Ctrl+O(save) και Ctrl+x(edit file)
 
 Βιβλιογραφία/Πηγές : 
 
@@ -65,7 +65,7 @@ https://vitux.com/how-to-edit-config-files-in-ubuntu/(command sudo vi and ways t
 
 # Παραδοτέο 4
 
-## Άσκηση προγραμματισμού + αίτημα ενσωμάτωσης
+## Άσκηση προγραμματισμού + αίτημα ενσωμάτωσης(video player)
 
 https://unruffled-fermi-c9806a.netlify.app/remix/youtube-video-player/
 
@@ -85,23 +85,47 @@ https://codepen.io/AmrSubZero/pen/oLOYrA(pause button)
 
 # Παραδοτέο 5
 
-## Άσκηση γραμμής εντολών
+## Άσκηση γραμμής εντολών(emacs)
 
-https://asciinema.org/a/msonMbU30pjPLDwJFKbi4j9a5
+https://asciinema.org/a/374555
+
+
+
+Δυσκολείες και διαδικασία : 
+
+Η παρούσα εργασία είχε ως στόχο την επεξεργασία αεχείων με org mode. Για για να γίνει τέτοιου ειδους επαιξεργασία χρηάστιηκε η χρήση emacs.
+
+Αρχικά βήματα : Αρχικά έπρεπε να κατεβάσω τα emacs με την ετνολη sudo snap install emacs . Τα emacs χρισημοποιούνται και εκτός terminal για να είναι ποιο προσητά στον χρήστη παρ'όλ'αυτά υπάρχει και η χρήση του εντός του terminal. Επειδή το asciinema κάνει record μονο εντός του terminal έγινε μόνο χρήση του emacs (terminal). Οι εντολές με τις οποίες μπορεί ο χρήστης να επεξεργαστεί ενα κείμενο αρχικά ξεκινάνε με ctrl και συνοδεύονται ανάλογα με την λειτουργία που θέλουμε να κάνουμε με το κατάλληλο γράμμμα. Εγώ έκανα μόνο χρήση της εντολής ctrl (+ x-d(δημειουργία  org file, + x +s(save) , +x +f(open file) ). Ξεκινήσα ένα νέο έγγραφο (C-x b), δημιουργόντας το emacsProject.org και αντιγράφοντας και με επικολλήση το ακόλουθο κείμενο:
+
+#-*- mode: org -*-
+#+STARTUP: showall
+
+* Welcome to Org mode
+
+  Welcome, and thanks for trying out Org mode. Making outlines in
+  Org is very simple. It is just text! Just start typing.
+* This is a headline, it starts with one or more stars
+  A heading has one star, a sub-heading two, etc.
+* Working with lists
+** Moving around in our outline
+** Moving around headlines
+
+Αποθηκεύσα το αρχείο (C-x C-s) ως emacsProject.org και δεν παρατηρήσετε ότι τα χρώματα αλλάζουν λόγο κάποιου bug του προγράμματος όμως για να δω εαν δουλεύει ξανά άνοιξα το emacsProject.org με (C-x C-f) και έδειξε ότι δουλεύει. 'Η επισήμανση σύνταξης είναι ενεργοποιημένη και το Emacs κατανοεί ότι εργάζομαι πλέον σε λειτουργία Org.
 
 Βιβλιογραφία/Πηγές : 
 
-https://superuser.com/questions/203298/ubuntu-keep-emacs-in-the-terminal(emacs -nw)
+https://superuser.com/questions/203298/ubuntu-keep-emacs-in-the-terminal (emacs -nw)
 
-https://orgmode.org/worg/org-tutorials/org4beginners.html(documentation) 
+https://orgmode.org/worg/org-tutorials/org4beginners.html (documentation) 
 
-https://www.gnu.org/software/emacs/manual/html_node/emacs/Exiting.html(Kill Emacs (save-buffers-kill-terminal))
+https://www.gnu.org/software/emacs/manual/html_node/emacs/Exiting.html (Kill Emacs (save-buffers-kill-terminal))
 
 # Παραδοτέο 6
 
-## Άσκηση προγραμματισμού 
+## Άσκηση προγραμματισμού (3d image)
 
 https://unruffled-fermi-c9806a.netlify.app/remix/image-3d/
+
 
 Βιβλιογραφία/Πηγές : 
 
