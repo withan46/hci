@@ -72,6 +72,13 @@ ONOMA: ΑΘΑΝΑΣΙΟΣ
 
 •	Link άσκησης:
    https://unruffled-fermi-c9806a.netlify.app/remix/youtube-video-player/
+   
+   
+•	Σκοπός της εργασίας : Επεξεργασία του κώδικα δημιουργώντας ένα κουμπί Play και Pause  button. Γι’ αυτή την εργασία έκανα εισαγωγή των κουμπιών - ενός image-background-εισαγωγή shadows στα κουμπιά και στο κύριο βίντεο - 3d animation στα κουμπιά 
+
+
+<img src="https://i.imgur.com/6lJtlbc.gif" width="470" height="270" />   <img src="https://i.imgur.com/iwjHnv7.gif" width="470" height="270" />   
+
 
 •	Βιβλιογραφία/Πηγές : 
 
@@ -131,6 +138,7 @@ ONOMA: ΑΘΑΝΑΣΙΟΣ
 •	Link άσκησης :
    https://unruffled-fermi-c9806a.netlify.app/remix/image-3d/
 
+   <img src="https://i.imgur.com/cv0Yhwg.jpg" width="868" height="430" />
 
 •	Βιβλιογραφία/Πηγές : 
 
