@@ -14,8 +14,8 @@ ONOMA: ΑΘΑΝΑΣΙΟΣ
 | --- | --- |
 | 1 | [Προσωπικοί μου στόχοι και ανάγκες γι'αυτό το μαθήμα](#παραδοτέο-1) |
 | 2 | [Άσκηση προγραμματισμού (button)](#παραδοτέο-2) |
-| 3 | [Άσκηση προγραμματισμού + αίτημα ενσωμάτωσης(video player)](#παραδοτέο-3) |
-| 4 | [Άσκηση προγραμματισμού + αίτημα ενσωμάτωσης(video player)](#παραδοτέο-4) |
+| 3 | [Εργασία γραμμής εντολών  (edit the shell configuration file)](#παραδοτέο-3) |
+| 4 | [Άσκηση προγραμματισμού (video player)](#παραδοτέο-4) |
 | 5 | [Άσκηση γραμμής εντολών(emacs)](#παραδοτέο-5) |
 | 6 | [Άσκηση προγραμματισμού (3d image)](#παραδοτέο-6) |
 | 7 | [Άσκηση γραμμής εντολών (install and configure in a user folder a python project that is not available through the package manager)](#παραδοτέο-7) |
@@ -55,7 +55,7 @@ ONOMA: ΑΘΑΝΑΣΙΟΣ
 
 # Παραδοτέο 3
 
-## Εργασίες γραμμής εντολών  (edit the shell configuration file)
+## Εργασία γραμμής εντολών  (edit the shell configuration file)
 
 •	Link άσκησησς:
    https://asciinema.org/a/XIU5oSVAlxz1HYyUmpqwwehOn
@@ -76,7 +76,7 @@ ONOMA: ΑΘΑΝΑΣΙΟΣ
 
 # Παραδοτέο 4
 
-## Άσκηση προγραμματισμού + αίτημα ενσωμάτωσης(video player)
+## Άσκηση προγραμματισμού (video player)
 
 •	Link άσκησης:
    https://unruffled-fermi-c9806a.netlify.app/remix/youtube-video-player/
